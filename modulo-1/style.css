@@ -1,0 +1,21 @@
+.primeirasListas {
+  color: lightgreen;
+}
+
+.segundasListas {
+  color: lightcoral;
+}
+
+#titulo {
+  color: magenta;
+}
+
+.paragrafo {
+  font-size: 16px;
+  font-family: roboto;
+  font-weight: 20;
+  line-height: 1;
+  border-width: 5px;
+  border: solid;
+  border-color: mediumorchid;
+}
